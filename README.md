@@ -42,7 +42,7 @@ Description new features es6, es7, es8, es9, es10
 * Symbol
 
 ## Image
-![History changes ES](./img.png)
+![History changes ES](./img.jpg)
 
 ## Contact
 Created by [Johnatan Alexis Urbano Guzmán](https://www.johnatan.dev) - feel free to contact me!
