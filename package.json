@@ -1,0 +1,19 @@
+{
+  "name": "ecma-script6-concepts",
+  "version": "1.0.0",
+  "description": "Basic Ecma Script 6 concepts for learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexurguz/ecma-script6-concepts.git"
+  },
+  "author": "Johnatan Alexis Urbano Guzmán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexurguz/ecma-script6-concepts/issues"
+  },
+  "homepage": "https://github.com/alexurguz/ecma-script6-concepts#readme"
+}
